@@ -28,18 +28,38 @@ Repositório para salvar material, estudos e sites uteis
 ## Fonts
 - www.fontshare.com
 
+### Fontes futuristicas
+- AZONIX
+- RECKONER
+- blanka
+- ELIANTO
+- EXAN
+- HIMAGSIKAN
+- NEPTUNE
+- QUANTUM
+- RAZEC
+
 ## Free Ui Kits
 - www.uispace.net
+- www.uistore.design
+- www.ui8.net
+- www.freebiesui.com
+- www.uigarage.net
+- www.uibundle.com
+- www.xdguru.com
+- www.bloouikit.com
+- www.dailyuikit.com
+- www.sketchrepo.com
 
 ## Tools
 
 Site para criar padrões de cores para background.
-- www.patterpad.com   
+- www.patternpad.com   
 
 Site para gerar loading effects
 - www.whirl.netlify.app
 
-Site com diversas funcionalidades de css
+Site com diversas funcionalidades de css e javascript
 - www.10015.io
 
 Site com diversos materiais de frontend
